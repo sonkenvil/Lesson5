@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="image_absoluteY">450dp</dimen>
+    <dimen name="constrainthorizontal_bias">0.5</dimen>
+    <dimen name="image_wight">117dp</dimen>
+    <dimen name="image_margin_bottom">32dp</dimen>
+    <dimen name="margirn">8dp</dimen>
+    <dimen name="seebar_widght">293dp</dimen>
+</resources>
